@@ -1,2 +1,2 @@
 # advanced-functional-programming
-ELTE KP-9162V
+course materials for ELTE course KP-9162V by 
